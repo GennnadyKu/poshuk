@@ -39,7 +39,10 @@ body {
        	background-color:rgb(244, 244, 244);
 	font-size: 0.85em;
 }
-                 
+input[type=submit]:hover {
+    background-color: rgb(200, 200, 200);
+}
+
 .c_poz {
 	text-align: center;
 }
